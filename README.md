@@ -1,4 +1,4 @@
-# Ex7-Animator-Movement
+# Ex5-Animator-Movement
 
 ### Name - R SUDHIR KUMAR
 ### Register number - 212223230221
