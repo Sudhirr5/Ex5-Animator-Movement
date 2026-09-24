@@ -30,9 +30,6 @@ Use keyframes or Unity's Animation tools to animate transitions between states.
 Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program :
-
-### DEVELOPED BY : Ashwin Kumar A
-### REG NO : 212223040021
 PlayerController:
 
 
